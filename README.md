@@ -1,8 +1,8 @@
 # HackerRank Preparation Questions
 This repository contains some of my solutions while attempting preparation questions on HackerRank
 
+## Algorithms
 ### Warmup
-
 
 ### Implementation
 
@@ -31,3 +31,26 @@ This repository contains some of my solutions while attempting preparation quest
 - [x] Plus Minus
 - [x] Mini-Max Sum
 - [x] Time Conversion
+
+## Data Structures
+### Arrays
+
+### Linked Lists
+
+### Trees
+
+### Balanced Trees
+
+### Stacks
+
+### Queues
+
+### Heap
+
+### Disjoint Set
+
+### Multiple Choice
+
+### Trie
+
+### Advanced
